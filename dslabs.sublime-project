@@ -1,0 +1,22 @@
+{
+  "folders":
+  [
+    {
+      "path": "./",
+      "folder_exclude_patterns": [
+        "build",
+        "deps",
+        ".out-idea",
+        ".idea",
+        ".gradle",
+        ".gradle-wrapper"
+      ],
+      "name": "Distributed Systems Labs",
+      "file_exclude_patterns": [
+        "*.sublime-workspace",
+        "*.sublime-project",
+        "dslabs.iml",
+      ]
+    }
+  ]
+}
